@@ -39,6 +39,8 @@ For Software:
 # Run
 [commands] : Run button
 
+---
+
 ### Project Documentation
 For Software:
 
@@ -68,7 +70,7 @@ The friendly welcome message — “Let’s see how long you last…” — pair
 ![Screenshot2]https://github.com/LakshmiGNair/Clickspace/blob/main/photo_2025-08-02_16-43-20.jpg
  This is a screenshot of a fun, visually pleasing web interface designed to track and display time spent on a particular activity — possibly a procrastination or break timer site. Here's a breakdown of the interface elements:
 
----
+
 
 ### 🕒 **Top Section - Time Wasted Tracker**
 
@@ -77,7 +79,6 @@ The friendly welcome message — “Let’s see how long you last…” — pair
 * **"Time wasted: 52s"**
   A live counter showing how long the user has spent on this page.
 
----
 
 ### 🗂️ **Middle Section - Category Buttons**
 
@@ -91,7 +92,6 @@ Five rounded buttons are displayed for browsing content:
 
 These are likely filters for the content shown below.
 
----
 
 ### 🖼️ **Bottom Section - Image Cards**
 
@@ -113,7 +113,6 @@ Three large rectangular image cards are displayed, each with:
    *Image:* A starry night sky over mountain peaks
    *Description:* “Starry skies and mountain highs.”
 
----
 
 ### 🎨 **Design Aesthetic**
 
@@ -125,10 +124,7 @@ Three large rectangular image cards are displayed, each with:
 ![Screenshot3] https://github.com/LakshmiGNair/Clickspace/blob/main/photo_2025-08-02_16-43-22.jpg
 AN inside image of rainy mood
 
-
-
-
-
+---
 
 ### Project Demo
 # Video
