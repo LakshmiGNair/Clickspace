@@ -65,7 +65,7 @@ The friendly welcome message — “Let’s see how long you last…” — pair
 
 
 
-![Screenshot2]"C:\Users\gital\Downloads\Telegram Desktop\photo_2025-08-02_16-43-20.jpg"
+![Screenshot2]https://github.com/LakshmiGNair/Clickspace/blob/main/photo_2025-08-02_16-43-20.jpg
  This is a screenshot of a fun, visually pleasing web interface designed to track and display time spent on a particular activity — possibly a procrastination or break timer site. Here's a breakdown of the interface elements:
 
 ---
