@@ -43,7 +43,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]    " C:\Users\gital\Downloads\Telegram Desktop\photo_2025-08-02_16-35-40.jpg "
+![Screenshot1]    " https://github.com/LakshmiGNair/Clickspace/blob/main/photo_2025-08-02_16-35-40.jpg "
 Clickspace is a playful and visually soothing website designed to entertain and relax users. With its soft pink aesthetic and minimalistic design, the landing page invites users to explore their interests through interactive categories.
 
 🕒 Time wasted counter: A cheeky touch that tracks how long you've spent on the site, emphasizing its lighthearted and addictive nature.
