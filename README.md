@@ -132,7 +132,7 @@ AN inside image of rainy mood
 
 ### Project Demo
 # Video
-"C:\Users\gital\Downloads\Telegram Desktop\Screen Recording 2025-08-02 163041.mp4"
+https://github.com/LakshmiGNair/Clickspace/blob/main/Screen%20Recording%202025-08-02%20163041.mp4
 This video demonstrates how clickspace works. The first window has different mood boards and when a particular mood board is chosen, it has three categories. Those categories can be opened and it will give you a image of the mood board with soothing sounds in it.
 
 
