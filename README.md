@@ -22,36 +22,36 @@ People have too many meaningful interactions online. We wanted to fix that.
 So we created a space where you can click endlessly, achieve absolutely nothing, and still feel oddly fulfilled.
 
 ### The Solution (that nobody asked for)
-We built a gloriously useless website where every click rewards you with nonsense — quirky messages, soothing sounds, and smooth scrolling.
+We built a gloriously useless website where every click rewards you with nonsense — quirky messages, sounds, and smooth scrolling.
 It’s interactive, it’s satisfying, it does absolutely nothing — and that’s the point.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-[Languages used] : HTML, CSS
+- [Frameworks used] : None
+- [Libraries used] : None
+- [Tools used] : Visual Studio Code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [List main components] : None
+- [List specifications] : None
+- [List tools required] : None
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[commands] : Live server
 
 # Run
-[commands]
+[commands] : Run button
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
