@@ -29,14 +29,7 @@ It’s interactive, it’s satisfying, it does absolutely nothing — and that�
 ### Technologies/Components Used
 For Software:
 -[Languages used] : HTML, CSS
-- [Frameworks used] : None
-- [Libraries used] : None
 - [Tools used] : Visual Studio Code
-
-For Hardware:
-- [List main components] : None
-- [List specifications] : None
-- [List tools required] : None
 
 ### Implementation
 For Software:
@@ -50,7 +43,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]  "C:\Users\gital\Downloads\Telegram Desktop\photo_2025-08-02_16-35-40.jpg"    
+![Screenshot1]  C:\Users\gital\Downloads\Telegram Desktop\photo_2025-08-02_16-35-40.jpg   
 Clickspace is a playful and visually soothing website designed to entertain and relax users. With its soft pink aesthetic and minimalistic design, the landing page invites users to explore their interests through interactive categories.
 
 🕒 Time wasted counter: A cheeky touch that tracks how long you've spent on the site, emphasizing its lighthearted and addictive nature.
@@ -132,41 +125,21 @@ Three large rectangular image cards are displayed, each with:
 ![Screenshot3]"C:\Users\gital\Downloads\Telegram Desktop\photo_2025-08-02_16-43-22.jpg"
 AN inside image of rainy mood
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 "C:\Users\gital\Downloads\Telegram Desktop\Screen Recording 2025-08-02 163041.mp4"
 This video demonstrates how clickspace works. The first window has different mood boards and when a particular mood board is chosen, it has three categories. Those categories can be opened and it will give you a image of the mood board with soothing sounds in it.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Lakshmi G Nair: VS code,Github
 - Varsha V J: VS code,Github
-- [Name 3]: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
