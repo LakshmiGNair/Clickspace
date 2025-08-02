@@ -122,7 +122,7 @@ Three large rectangular image cards are displayed, each with:
 * **Mood:** Whimsical, cozy, and aesthetically soothing
 
 
-![Screenshot3]"C:\Users\gital\Downloads\Telegram Desktop\photo_2025-08-02_16-43-22.jpg"
+![Screenshot3] https://github.com/LakshmiGNair/Clickspace/blob/main/photo_2025-08-02_16-43-22.jpg
 AN inside image of rainy mood
 
 
